@@ -33,7 +33,7 @@ import kotlin.math.*
  * Updated by Xiaro on 27/08/20
  */
 @Module.Info(
-        name = "ElytraFlight",
+        name = "Elytra+",
         description = "Allows infinite and way easier Elytra flying",
         category = Module.Category.MOVEMENT,
         modulePriority = 1000
